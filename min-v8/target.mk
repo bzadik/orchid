@@ -44,7 +44,7 @@ v8src := $(patsubst %,$(pwd)/v8/src/%,$(shell cd $(pwd)/v8/src && find . \
     ! -path "./heap/cppgc/caged-heap.cc" \
     ! -path "./heap/conservative-stack-visitor.cc" \
     ! -path "./libplatform/tracing/trace-event-listener.cc" \
--name "*.cc" -print))
+-name "*.cc" -print | LANG=C sort))
 
 v8src += $(foreach temp,$(wildcard $(pwd)/v8/third_party/inspector_protocol/crdtp/*.cc),$(if $(findstring test,$(temp)),,$(temp)))
 
