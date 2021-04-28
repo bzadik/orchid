@@ -217,12 +217,6 @@ cflags += -I$(pwd)/extra
 #chacks/$(pwd/v8)/src/./profiler/heap-snapshot-generator.cc += s/V8_CC_MSVC/1/
 cflags += -mno-ms-bitfields
 
-# https://bugs.chromium.org/p/v8/issues/detail?id=11692
-cflags/$(pwd/v8)/src/./runtime/runtime-classes.cc += -Wno-unused-variable
-
-# XXX: https://bugs.chromium.org/p/v8/issues/detail?id=11691
-cflags/$(pwd/v8)/ += -Wno-implicit-int-float-conversion
-
 # https://bugs.chromium.org/p/chromium/issues/detail?id=1016945
 cflags/$(pwd/v8)/ += -Wno-builtin-assume-aligned-alignment
 
