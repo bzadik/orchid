@@ -289,9 +289,9 @@
     "toConnectEitherAddCryptoUsingTheOrchidDappOr": "To connect, either add crypto using the Orchid DApp or use an existing account.",
     "toGetTheBenefitsOfNetworkPrivacyYouMustConfigure": "To get the benefits of network privacy you must configure and activate a VPN connection from the home screen.",
     "turningOnThisFeatureWillIncreaseTheBatteryUsageOf": "Turning on this feature will increase the battery usage of the Orchid App.",
-    "useAnOrchidAccount": "Use an Orchid Account",
-    "useAnotherAccount": "Use another account",
-    "useCryptoWallet": "Use crypto wallet",
+    "useAnOrchidAccount": "Usar una cuenta Orchid",
+    "useAnotherAccount": "Usar otra cuenta",
+    "useCryptoWallet": "Usar billetera criptográfica",
     "vpnConnectedButNotRouting": "(VPN connected but not routing)",
     "yourAccountIsEmpty": "Your account is empty!",
     "yourOrchidIdentityUniquelyIdentifiesYouOnTheNetwork": "Your Orchid Identity uniquely identifies you on the network."
