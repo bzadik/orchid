@@ -273,7 +273,7 @@
     "doNotSendTokensToThisAddress": "No enviar tokens a esta dirección.",
     "funderAccount": "Cuenta de financiador",
     "ifYouDontSeeYourAccountBelowYouCanUse": "Si no ves tu cuenta abajo, puedes usar el administrador de cuentas para importar, comprar o crear una nueva.",
-    "learnMoreAboutYourLinkorchidIdentitylink": "Obtén más información sobre tu <link>Identidad Orchid</link>.",
+    "learnMoreAboutYourLinkorchidIdentitylink": "Obtener más información sobre tu <link>Identidad Orchid</link>.",
     "networkAnalysisRequiresVpnPermissionsButDoesNotByItself": "El análisis de red requiere permisos de VPN, pero no protege tus datos ni oculta tu dirección IP por sí solo.",
     "networkAnalysisUsesYourDevicesVpnFacilityToCapturePackets": "El análisis de red utiliza la función VPN de tu dispositivo para capturar paquetes y analizar tu tráfico.",
     "orchidAnalyzingTraffic": "Orchid está analizando el tráfico",
@@ -291,8 +291,8 @@
     "turningOnThisFeatureWillIncreaseTheBatteryUsageOf": "Activar esta función aumentará el uso de la batería de la app Orchid.",
     "useAnOrchidAccount": "Usar una cuenta Orchid",
     "useAnotherAccount": "Usar otra cuenta",
-    "useCryptoWallet": "Usar cartera criptográfica",
+    "useCryptoWallet": "Usar cartera de cripto",
     "vpnConnectedButNotRouting": "(VPN conectada pero sin enrutamiento)",
     "yourAccountIsEmpty": "¡Tu cuenta está vacía!",
-    "yourOrchidIdentityUniquelyIdentifiesYouOnTheNetwork": "Tu identidad Orchid te identifica de forma única en la red."
+    "yourOrchidIdentityUniquelyIdentifiesYouOnTheNetwork": "Tu Identidad Orchid te identifica de forma única en la red."
 }
