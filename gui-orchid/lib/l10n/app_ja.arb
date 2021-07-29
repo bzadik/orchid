@@ -270,7 +270,7 @@
     "connectingToARandomOrchidProvider": "ランダムな Orchid プロバイダーに接続しています",
     "copiedOrchidIdentity": "Orchid アイデンティティがコピーされました",
     "disconnectingVpn": "(VPN を切断しています)",
-    "doNotSendTokensToThisAddress": "このアドレスにトークンを送信しない",
+    "doNotSendTokensToThisAddress": "このアドレスにトークンを送信しないでください。",
     "funderAccount": "資金提供者アカウント",
     "ifYouDontSeeYourAccountBelowYouCanUse": "アカウントが下に表示されない場合は、アカウント マネージャーを使用して、新しいアカウントをインポート、購入、作成できます。",
     "learnMoreAboutYourLinkorchidIdentitylink": "<link>Orchid アイデンティティ</link>の詳細をご覧ください。",
