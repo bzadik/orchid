@@ -178,7 +178,7 @@
     "loading": "载入中......",
     "ethPrice": "ETH价格：",
     "oxtPrice": "OXT价格：",
-    "gasPrice": "gas费用：",
+    "gasPrice": "Gas费用：",
     "maxFaceValue": "最大面值：",
     "deletedHops": "删除跃点",
     "noRecentlyDeletedHops": "没有最近删除的跃点...",
